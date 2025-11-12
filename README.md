@@ -155,7 +155,7 @@ Through this project, I applied and strengthened key Power Platform skills:
 ## 👤 About the Creator
 
 * **Developer:** *Viswavardhan Reddy Gundavarapu*
-* **Publisher:** `<Viswavardhan Reddy Gundavarapu`
+* **Publisher:** `Viswavardhan Reddy Gundavarapu`
 * **Program:** Microsoft **Power Up Challenge**
 
 > *“Technology is powerful when it solves real problems. This project reflects my approach to building practical, data-driven, and user-friendly business solutions using Microsoft Power Platform.”*
